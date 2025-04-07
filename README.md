@@ -1,5 +1,82 @@
 Research on mind control devices, gang stalking and covert government programs. Done using notebooklm.
 
+1.  Digital Encoding, Thought Reading, and Brain Mechanisms
+2.  Holographic Brain and Resonance in Neural Function
+3.  Electrical Biology Research Sufficiency for Remote Control
+4.  EMF Exposure: Cancer Risks and Scientific Suppression
+5.  Brain Imaging, Government Research, and Bioeffects
+6.  Brain Stimulation: Mechanisms and Applications
+7.  Electromagnetic Induction of Body Movements
+8.  Electron Spin Resonance (ESR) Device Lag
+9.  Electromagnetic Fields, Mind Influence, and Surveillance Technologies (HAARP/ECHELON)
+10. Worldwide Impact of HAARP-Sourced Electromagnetic Pollution
+11. US Government Use of Electron Spin and Satellite Mind Control
+12. Number of US Gov Satellites for Mind Reading
+13. History of Psychotronic Weapons and Devices
+14. Psychotronic Weapons: Remote Manipulation and Non-Covert Torture
+15. Hypnosis in Mind Control
+16. Neuro-Linguistic Programming (NLP) in Mind Control
+17. Accessing the Right Hemisphere for Communication
+18. Methods of Mind Hacking
+19. Heterodyning Brainwaves for Mind Control
+20. China's New-Concept Weapons and Brain Effects
+21. Psychic Warfare, Information Warfare, and Cyber Warfare
+22. DEW for Eugenics
+23. Humans Treated as Cattle via Nanochips
+24. History of Human Experimentation and Accountability
+25. Nazi Influence on US Intelligence and Mind Control
+26. Soviet Bioweapons Program: The Biopreparat Era
+27. Covert Mind Control Programs: US, Russia, and Beyond
+28. Government Origins of Human Conditioning Programs
+29. Mind Control: Manchurian Candidate and Monarch Program
+30. CIA Mind Control Reboot Post-MK-ULTRA
+31. The National Security Agency (NSA) and Mind Control
+32. CIA, Mafia, and Italian Secret Service Links
+33. Motivations and Control within Secret Programs
+34. Russian Psychotronic Tech: Post-Soviet Privatization and Control
+35. Privatization of Psychotronic Weapons / Electronic Harassment as Service
+36. Psychotronic Weapon Sales to Terrorists
+37. Psychotronic Sects: Mind Control and Secret Agendas
+38. Psychiatrist Involvement / Underground Network
+39. Targeted Individuals: Beliefs on Brain Mapping and Mind Control
+40. Targeted Individuals: Harassment and Torture Tactics
+41. Street Theatre Tactics
+42. Physical Torture Methods Used in Conditioning Programs
+43. Reported Physical Abuses Against Targeted Individuals
+44. Torture and Dream Manipulation
+45. Schizophrenia as a Cover-Up for Mind Control Symptoms
+46. Government Mind Control: Goals and Tactics
+47. Covering Up Targeted Individual Deaths
+48. Estimating Worldwide Covered-Up TI Deaths
+49. Estimating Non-Consensual Torture Victims: Challenges and Claims
+50. Targeted Individuals, Psionics, and UFO Connections
+51. Gangstalking, UFOs, and Forced Dissociation: Intertwined Phenomena
+52. Psychotronic Weapons as Explanation for Haunted Houses
+53. Alien Cover Story for Mind Control
+54. TI Pool Related to Alien Deal?
+55. Nina Kulagina and the Thresher Submarine Rumor
+56. Psychic Powers in Psychological Warfare: A Cold War Focus
+57. Political Influence / Deep State / Mind Control
+58. Political Inaction Due to Mind Control
+59. Media Control and Mass Intellect Suppression
+60. AI and the Specter of Mass Mind Control
+61. Mind Control, AI, and the Emerging Hive Mind
+62. Transhumanism: Core Concepts, Technology, and Ethical Debates
+63. Transhumanism and Mind Control: Converging Technologies, Divergent Ethics
+64. Transhumanism, Illuminati, and New World Order
+65. AI & ESR Revolutionizing Medical Research
+66. Classified Neuroscience: Government Control and Research Disparity
+67. Justification of Mind Control Weapon Secrecy
+68. Freedom of Thought and Cognitive Liberty
+69. Lag in Human Mind Rights Protection
+70. European Union Stance on Human Mind Control Technologies
+71. EU Ignoring Requests for Human Thought Rights?
+72. Weapon Nomenclature: Obscuring Reality and Intent
+73. The Absurdity Factor in Secret Weapons Program Disbelief
+74. Reasons Mind Control Programs Are Hard to Stop
+75. Protection Methods for Targeted Individuals
+76. Holography and Virtual Reality: Immersive Sensory Technologies
+
 ***
 
 **1. Digital Encoding, Thought Reading, and Brain Mechanisms**

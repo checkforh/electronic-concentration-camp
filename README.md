@@ -1,3 +1,5 @@
+[Perpetrators stupidity ranking](perpetrators.md) [Perpetrators ranking summary](perpetrators-summary.md)
+
 Research on mind control devices, gang stalking and covert government programs. Done using notebooklm.
 
 1.  Digital Encoding, Thought Reading, and Brain Mechanisms

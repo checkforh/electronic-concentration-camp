@@ -1,87 +1,91 @@
-[Perpetrators stupidity ranking](perpetrators.md) [Perpetrators ranking summary](perpetrators-summary.md)
+[PERPETRATORS STUPIDITY RANKING](perpetrators.md) 
+
+[PERPETRATORS RANKING SUMMARY](perpetrators-summary.md)
 
 Research on mind control devices, gang stalking and covert government programs. Done using notebooklm.
 
-1.  Digital Encoding, Thought Reading, and Brain Mechanisms
-2.  Holographic Brain and Resonance in Neural Function
-3.  Electrical Biology Research Sufficiency for Remote Control
-4.  EMF Exposure: Cancer Risks and Scientific Suppression
-5.  Brain Imaging, Government Research, and Bioeffects
-6.  Brain Stimulation: Mechanisms and Applications
-7.  Electromagnetic Induction of Body Movements
-8.  Electron Spin Resonance (ESR) Device Lag
-9.  Electromagnetic Fields, Mind Influence, and Surveillance Technologies (HAARP/ECHELON)
-10. Worldwide Impact of HAARP-Sourced Electromagnetic Pollution
-11. US Government Use of Electron Spin and Satellite Mind Control
-12. Number of US Gov Satellites for Mind Reading
-13. History of Psychotronic Weapons and Devices
-14. Psychotronic Weapons: Remote Manipulation and Non-Covert Torture
-15. Hypnosis in Mind Control
-16. Neuro-Linguistic Programming (NLP) in Mind Control
-17. Accessing the Right Hemisphere for Communication
-18. Methods of Mind Hacking
-19. Heterodyning Brainwaves for Mind Control
-20. China's New-Concept Weapons and Brain Effects
-21. Psychic Warfare, Information Warfare, and Cyber Warfare
-22. DEW for Eugenics
-23. Humans Treated as Cattle via Nanochips
-24. History of Human Experimentation and Accountability
-25. Nazi Influence on US Intelligence and Mind Control
-26. Soviet Bioweapons Program: The Biopreparat Era
-27. Covert Mind Control Programs: US, Russia, and Beyond
-28. Government Origins of Human Conditioning Programs
-29. Mind Control: Manchurian Candidate and Monarch Program
-30. CIA Mind Control Reboot Post-MK-ULTRA
-31. The National Security Agency (NSA) and Mind Control
-32. CIA, Mafia, and Italian Secret Service Links
-33. Motivations and Control within Secret Programs
-34. Russian Psychotronic Tech: Post-Soviet Privatization and Control
-35. Privatization of Psychotronic Weapons / Electronic Harassment as Service
-36. Psychotronic Weapon Sales to Terrorists
-37. Psychotronic Sects: Mind Control and Secret Agendas
-38. Psychiatrist Involvement / Underground Network
-39. Targeted Individuals: Beliefs on Brain Mapping and Mind Control
-40. Targeted Individuals: Harassment and Torture Tactics
-41. Street Theatre Tactics
-42. Physical Torture Methods Used in Conditioning Programs
-43. Reported Physical Abuses Against Targeted Individuals
-44. Torture and Dream Manipulation
-45. Schizophrenia as a Cover-Up for Mind Control Symptoms
-46. Government Mind Control: Goals and Tactics
-47. Covering Up Targeted Individual Deaths
-48. Estimating Worldwide Covered-Up TI Deaths
-49. Estimating Non-Consensual Torture Victims: Challenges and Claims
-50. Targeted Individuals, Psionics, and UFO Connections
-51. Gangstalking, UFOs, and Forced Dissociation: Intertwined Phenomena
-52. Psychotronic Weapons as Explanation for Haunted Houses
-53. Alien Cover Story for Mind Control
-54. TI Pool Related to Alien Deal?
-55. Nina Kulagina and the Thresher Submarine Rumor
-56. Psychic Powers in Psychological Warfare: A Cold War Focus
-57. Political Influence / Deep State / Mind Control
-58. Political Inaction Due to Mind Control
-59. Media Control and Mass Intellect Suppression
-60. AI and the Specter of Mass Mind Control
-61. Mind Control, AI, and the Emerging Hive Mind
-62. Transhumanism: Core Concepts, Technology, and Ethical Debates
-63. Transhumanism and Mind Control: Converging Technologies, Divergent Ethics
-64. Transhumanism, Illuminati, and New World Order
-65. AI & ESR Revolutionizing Medical Research
-66. Classified Neuroscience: Government Control and Research Disparity
-67. Justification of Mind Control Weapon Secrecy
-68. Freedom of Thought and Cognitive Liberty
-69. Lag in Human Mind Rights Protection
-70. European Union Stance on Human Mind Control Technologies
-71. EU Ignoring Requests for Human Thought Rights?
-72. Weapon Nomenclature: Obscuring Reality and Intent
-73. The Absurdity Factor in Secret Weapons Program Disbelief
-74. Reasons Mind Control Programs Are Hard to Stop
-75. Protection Methods for Targeted Individuals
-76. Holography and Virtual Reality: Immersive Sensory Technologies
+Here is the list of markdown relative links based on the headings in the document:
+
+* [1. Digital Encoding, Thought Reading, and Brain Mechanisms](#1-digital-encoding-thought-reading-and-brain-mechanisms)
+* [2. Holographic Brain and Resonance in Neural Function](#2-holographic-brain-and-resonance-in-neural-function)
+* [3. Electrical Biology Research Sufficiency for Remote Control](#3-electrical-biology-research-sufficiency-for-remote-control)
+* [4. EMF Exposure: Cancer Risks and Scientific Suppression](#4-emf-exposure-cancer-risks-and-scientific-suppression)
+* [5. Brain Imaging, Government Research, and Bioeffects](#5-brain-imaging-government-research-and-bioeffects)
+* [6. Brain Stimulation: Mechanisms and Applications](#6-brain-stimulation-mechanisms-and-applications)
+* [7. Electromagnetic Induction of Body Movements](#7-electromagnetic-induction-of-body-movements)
+* [8. Electron Spin Resonance (ESR) Device Lag](#8-electron-spin-resonance-esr-device-lag)
+* [9. Electromagnetic Fields, Mind Influence, and Surveillance Technologies (HAARP/ECHELON)](#9-electromagnetic-fields-mind-influence-and-surveillance-technologies-haarpechelon)
+* [10. Worldwide Impact of HAARP-Sourced Electromagnetic Pollution](#10-worldwide-impact-of-haarp-sourced-electromagnetic-pollution)
+* [11. US Government Use of Electron Spin and Satellite Mind Control](#11-us-government-use-of-electron-spin-and-satellite-mind-control)
+* [12. Number of US Gov Satellites for Mind Reading](#12-number-of-us-gov-satellites-for-mind-reading)
+* [13. History of Psychotronic Weapons and Devices](#13-history-of-psychotronic-weapons-and-devices)
+* [14. Psychotronic Weapons: Remote Manipulation and Non-Covert Torture](#14-psychotronic-weapons-remote-manipulation-and-non-covert-torture)
+* [15. Hypnosis in Mind Control](#15-hypnosis-in-mind-control)
+* [16. Neuro-Linguistic Programming (NLP) in Mind Control](#16-neuro-linguistic-programming-nlp-in-mind-control)
+* [17. Accessing the Right Hemisphere for Communication](#17-accessing-the-right-hemisphere-for-communication)
+* [18. Methods of Mind Hacking](#18-methods-of-mind-hacking)
+* [19. Heterodyning Brainwaves for Mind Control](#19-heterodyning-brainwaves-for-mind-control)
+* [20. China's New-Concept Weapons and Brain Effects](#20-chinas-new-concept-weapons-and-brain-effects)
+* [21. Psychic Warfare, Information Warfare, and Cyber Warfare](#21-psychic-warfare-information-warfare-and-cyber-warfare)
+* [22. DEW for Eugenics](#22-dew-for-eugenics)
+* [23. Humans Treated as Cattle via Nanochips](#23-humans-treated-as-cattle-via-nanochips)
+* [24. History of Human Experimentation and Accountability](#24-history-of-human-experimentation-and-accountability)
+* [25. Nazi Influence on US Intelligence and Mind Control](#25-nazi-influence-on-us-intelligence-and-mind-control)
+* [26. Soviet Bioweapons Program: The Biopreparat Era](#26-soviet-bioweapons-program-the-biopreparat-era)
+* [27. Covert Mind Control Programs: US, Russia, and Beyond](#27-covert-mind-control-programs-us-russia-and-beyond)
+* [28. Government Origins of Human Conditioning Programs](#28-government-origins-of-human-conditioning-programs)
+* [29. Mind Control: Manchurian Candidate and Monarch Program](#29-mind-control-manchurian-candidate-and-monarch-program)
+* [30. CIA Mind Control Reboot Post-MK-ULTRA](#30-cia-mind-control-reboot-post-mk-ultra)
+* [31. The National Security Agency (NSA) and Mind Control](#31-the-national-security-agency-nsa-and-mind-control)
+* [32. CIA, Mafia, and Italian Secret Service Links](#32-cia-mafia-and-italian-secret-service-links)
+* [33. Motivations and Control within Secret Programs](#33-motivations-and-control-within-secret-programs)
+* [34. Russian Psychotronic Tech: Post-Soviet Privatization and Control](#34-russian-psychotronic-tech-post-soviet-privatization-and-control)
+* [35. Privatization of Psychotronic Weapons / Electronic Harassment as Service](#35-privatization-of-psychotronic-weapons--electronic-harassment-as-service)
+* [36. Psychotronic Weapon Sales to Terrorists](#36-psychotronic-weapon-sales-to-terrorists)
+* [37. Psychotronic Sects: Mind Control and Secret Agendas](#37-psychotronic-sects-mind-control-and-secret-agendas)
+* [38. Psychiatrist Involvement / Underground Network](#38-psychiatrist-involvement--underground-network)
+* [39. Targeted Individuals: Beliefs on Brain Mapping and Mind Control](#39-targeted-individuals-beliefs-on-brain-mapping-and-mind-control)
+* [40. Targeted Individuals: Harassment and Torture Tactics](#40-targeted-individuals-harassment-and-torture-tactics)
+* [41. Street Theatre Tactics](#41-street-theatre-tactics)
+* [42. Physical Torture Methods Used in Conditioning Programs](#42-physical-torture-methods-used-in-conditioning-programs)
+* [43. Reported Physical Abuses Against Targeted Individuals](#43-reported-physical-abuses-against-targeted-individuals)
+* [44. Torture and Dream Manipulation](#44-torture-and-dream-manipulation)
+* [45. Schizophrenia as a Cover-Up for Mind Control Symptoms](#45-schizophrenia-as-a-cover-up-for-mind-control-symptoms)
+* [46. Government Mind Control: Goals and Tactics](#46-government-mind-control-goals-and-tactics)
+* [47. Covering Up Targeted Individual Deaths](#47-covering-up-targeted-individual-deaths)
+* [48. Estimating Worldwide Covered-Up TI Deaths](#48-estimating-worldwide-covered-up-ti-deaths)
+* [49. Estimating Non-Consensual Torture Victims: Challenges and Claims](#49-estimating-non-consensual-torture-victims-challenges-and-claims)
+* [50. Targeted Individuals, Psionics, and UFO Connections](#50-targeted-individuals-psionics-and-ufo-connections)
+* [51. Gangstalking, UFOs, and Forced Dissociation: Intertwined Phenomena](#51-gangstalking-ufos-and-forced-dissociation-intertwined-phenomena)
+* [52. Psychotronic Weapons as Explanation for Haunted Houses](#52-psychotronic-weapons-as-explanation-for-haunted-houses)
+* [53. Alien Cover Story for Mind Control](#53-alien-cover-story-for-mind-control)
+* [54. TI Pool Related to Alien Deal?](#54-ti-pool-related-to-alien-deal)
+* [55. Nina Kulagina and the Thresher Submarine Rumor](#55-nina-kulagina-and-the-thresher-submarine-rumor)
+* [56. Psychic Powers in Psychological Warfare: A Cold War Focus](#56-psychic-powers-in-psychological-warfare-a-cold-war-focus)
+* [57. Political Influence / Deep State / Mind Control](#57-political-influence--deep-state--mind-control)
+* [58. Political Inaction Due to Mind Control](#58-political-inaction-due-to-mind-control)
+* [59. Media Control and Mass Intellect Suppression](#59-media-control-and-mass-intellect-suppression)
+* [60. AI and the Specter of Mass Mind Control](#60-ai-and-the-specter-of-mass-mind-control)
+* [61. Mind Control, AI, and the Emerging Hive Mind](#61-mind-control-ai-and-the-emerging-hive-mind)
+* [62. Transhumanism: Core Concepts, Technology, and Ethical Debates](#62-transhumanism-core-concepts-technology-and-ethical-debates)
+* [63. Transhumanism and Mind Control: Converging Technologies, Divergent Ethics](#63-transhumanism-and-mind-control-converging-technologies-divergent-ethics)
+* [64. Transhumanism, Illuminati, and New World Order](#64-transhumanism-illuminati-and-new-world-order)
+* [65. AI & ESR Revolutionizing Medical Research](#65-ai--esr-revolutionizing-medical-research)
+* [66. Classified Neuroscience: Government Control and Research Disparity](#66-classified-neuroscience-government-control-and-research-disparity)
+* [67. Justification of Mind Control Weapon Secrecy](#67-justification-of-mind-control-weapon-secrecy)
+* [68. Freedom of Thought and Cognitive Liberty](#68-freedom-of-thought-and-cognitive-liberty)
+* [69. Lag in Human Mind Rights Protection](#69-lag-in-human-mind-rights-protection)
+* [70. European Union Stance on Human Mind Control Technologies](#70-european-union-stance-on-human-mind-control-technologies)
+* [71. EU Ignoring Requests for Human Thought Rights?](#71-eu-ignoring-requests-for-human-thought-rights)
+* [72. Weapon Nomenclature: Obscuring Reality and Intent](#72-weapon-nomenclature-obscuring-reality-and-intent)
+* [73. The Absurdity Factor in Secret Weapons Program Disbelief](#73-the-absurdity-factor-in-secret-weapons-program-disbelief)
+* [74. Reasons Mind Control Programs Are Hard to Stop](#74-reasons-mind-control-programs-are-hard-to-stop)
+* [75. Protection Methods for Targeted Individuals](#75-protection-methods-for-targeted-individuals)
+* [76. Holography and Virtual Reality: Immersive Sensory Technologies](#76-holography-and-virtual-reality-immersive-sensory-technologies)
 
 ***
 
-**1. Digital Encoding, Thought Reading, and Brain Mechanisms**
+### 1. Digital Encoding, Thought Reading, and Brain Mechanisms
 
 Sensory information is processed and encoded through neural activity, which can be interpreted as a form of digital or analog signaling.
 
